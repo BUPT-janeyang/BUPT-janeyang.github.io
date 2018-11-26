@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jie Yang"
-  avatar           : "profile.png"
+  avatar           : "test.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing, China"
+  location         : "Beijing University of Posts and Telecommunications (BUPT), Beijing, China"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
