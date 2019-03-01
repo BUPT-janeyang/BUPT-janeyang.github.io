@@ -176,7 +176,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/2015-10-01-paper-title-number-3
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
