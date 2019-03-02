@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2002/09-2007/06, Beijing University of Posts and Telecommunications, School of Information Engineering, Ph.D., Tutor: Lei Zhenming
+* 1996/09-1999/07, Beijing University of Posts and Telecommunications, Department of Information Engineering, Master, Tutor: Zhang Yimin
+* 1989/09-1993/07, Department of Information Engineering, Beijing University of Posts and Telecommunications, Bachelor, Tutor: Zhang Huimin
 
-Work experience
+Research project
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014/12-present, Professor, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications
+* 2006/07-2014/11, Associate Professor, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications
+* 1998/07-2006/06, Lecturer, School of Information Engineering, Beijing University of Posts and Telecommunications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Natural Science Foundation of China, 61671078, analysis of the overlap and mutual expansion of online and offline social networks, 2017/01-2020/12, 580,000 yuan, ongoing, host
+* Enterprise cooperation project, R&D of LTE signaling monitoring system, 2014/06-2017/06, 900,000 yuan, under research, host
+* National Natural Science Foundation of China, 61072061, Research on high-speed network stream classification technology based on sampling, 2011/01-2013/12, 360,000 yuan, completed, hosted
+* Enterprise cooperation project, network traffic analysis and classification system research and development, 2010/01~2011/12, 700,000 yuan, completed, hosted
+* Beijing University of Posts and Telecommunications-IBM China Research Institute joint research open topic, network traffic feature extraction and business identification, 2008/09~2009/09, 60,000, completed, hosted
+* National Science and Technology Support Program Beiyou Subproject, 2008BAH37B04-3, a new generation of trusted Internet security and network services, 2007.12~2010.12, 2.17 million yuan, completed, participated
 
 Publications
 ======
