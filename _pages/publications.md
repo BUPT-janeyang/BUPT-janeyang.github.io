@@ -5,41 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 ## Journal
 
 ### 2018 年
-34. Yuanyuan Qiao\*,Yan Wu, Yaobin He,Libo Hao,Wenhui Lin ,**Jie Yang**. Linking User Online Behavior across Domains with Internet Traffic[J]. Journal of Universal Computer Science, 2018, 24(3): 277-301.  
+* 34. Yuanyuan Qiao\*,Yan Wu, Yaobin He,Libo Hao,Wenhui Lin ,**Jie Yang**. Linking User Online Behavior across Domains with Internet Traffic[J]. Journal of Universal Computer Science, 2018, 24(3): 277-301.  
 **WOS**:000436236400004   
 [qiao2018linking.pdf](/uploads/cf0e595bf91454fd557cab4c95507d9d/jucs_24_03_0277_0301_qiao.pdf)
 
-33. Qiujian Lv\*, Yuanyuan Qiao, Yi Zhang, Fehmi Ben Abdesslem, Wenhui Lin, and **Jie Yang**, Measuring Geospatial Properties: Relating Online Content Browsing Behaviors to Users’ Points of Interest, Wireless Personal Communications,  2018, 101(3): 1469–1498.  
+* 33. Qiujian Lv\*, Yuanyuan Qiao, Yi Zhang, Fehmi Ben Abdesslem, Wenhui Lin, and **Jie Yang**, Measuring Geospatial Properties: Relating Online Content Browsing Behaviors to Users’ Points of Interest, Wireless Personal Communications,  2018, 101(3): 1469–1498.  
 [lv2018measuring.pdf](/uploads/c5c6296f63461f148953674e1b472564/Measuring_Geospatial_Properties-_Relating_Online_Content_Browsing_Behaviors_to_Users__Points_of_Interest.pdf)
 
 ### 2017年
 
-32. Yuanyuan Qiao\*, Jianyang Yu,Wenhui Lin,**Jie Yang**. A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic[J]. Wireless Personal Communications, 2018, 102(3): 2233-2259.  
+* 32. Yuanyuan Qiao\*, Jianyang Yu,Wenhui Lin,**Jie Yang**. A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic[J]. Wireless Personal Communications, 2018, 102(3): 2233-2259.  
 [qiao2017a.pdf](uploads/fd137e6e854aef2391aeabed5320999f/Qiao2018_Article_AHuman-in-the-LoopArchitecture.pdf)
 
-31. Yuanyuan Qiao\*, Zhizhuang Xing, Zubair Md. Fadlullah,**Jie Yang**. Characterizing Flow, Application, and User Behavior in Mobile Networks: A Framework for Mobile Big Data[J]. IEEE Wireless Communications, 2018, 25(1): 40-49.  
+* 31. Yuanyuan Qiao\*, Zhizhuang Xing, Zubair Md. Fadlullah,**Jie Yang**. Characterizing Flow, Application, and User Behavior in Mobile Networks: A Framework for Mobile Big Data[J]. IEEE Wireless Communications, 2018, 25(1): 40-49.  
 **WOS**:000426796000008  
 [qiao2017characterizing.pdf](uploads/35f41a3893d3931105a4062d08cceaf2/08304390.pdf)
 
-30. YuanyuanQiao\*,Zhongwei Si,Yanting Zhang,Fehmi Ben Abdesslem\*,Xinyu Zhang,**JieYang**. A hybrid Markov-based model for human mobility prediction[J]. Neurocomputing, 2018, 278: 99-109.  
+* 30. YuanyuanQiao\*,Zhongwei Si,Yanting Zhang,Fehmi Ben Abdesslem\*,Xinyu Zhang,**JieYang**. A hybrid Markov-based model for human mobility prediction[J]. Neurocomputing, 2018, 278: 99-109.  
 **WOS**:000423965000011   
 [qiao2017hybrid.pdf](/uploads/2887cb2ed85ddc2c4fef222d78496b9f/1-s2.0-S0925231217314455-main.pdf)
 
-29. Qiujian Lv\*, Yuanyuan Qiao,Nirwan Ansari,Jun Liu,**Jie Yang**. Big data driven hidden Markov model based individual mobility prediction at points of interest[J]. IEEE Transactions on Vehicular Technology, 2017, 66(6): 5204-5216. 
+* 29. Qiujian Lv\*, Yuanyuan Qiao,Nirwan Ansari,Jun Liu,**Jie Yang**. Big data driven hidden Markov model based individual mobility prediction at points of interest[J]. IEEE Transactions on Vehicular Technology, 2017, 66(6): 5204-5216. 
 **WOS**:000404034800054    
 [lv2017big.pdf](/uploads/5cc982d0d54bb10013fab85a34ea5c09/lv2017big.pdf)
 
