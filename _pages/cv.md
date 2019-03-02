@@ -15,13 +15,13 @@ Education
 * 1996/09-1999/07, Beijing University of Posts and Telecommunications, Department of Information Engineering, Master, Tutor: Zhang Yimin
 * 1989/09-1993/07, Department of Information Engineering, Beijing University of Posts and Telecommunications, Bachelor, Tutor: Zhang Huimin
 
-Research project
+Work
 ======
 * 2014/12-present, Professor, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications
 * 2006/07-2014/11, Associate Professor, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications
 * 1998/07-2006/06, Lecturer, School of Information Engineering, Beijing University of Posts and Telecommunications
   
-Skills
+Research project
 ======
 * National Natural Science Foundation of China, 61671078, analysis of the overlap and mutual expansion of online and offline social networks, 2017/01-2020/12, 580,000 yuan, ongoing, host
 * Enterprise cooperation project, R&D of LTE signaling monitoring system, 2014/06-2017/06, 900,000 yuan, under research, host
