@@ -147,10 +147,10 @@ author_profile: true
 * **杨洁**\*, 刘军, 雷振明. 网络性能测量应用模型及其性能分析[J]. 计算机工程与应用, 2003, 39(25): 18-21.  
 [yang2003网络性能.pdf](uploads/254ad47e95866b8fe0ff3ea8d6babec6/网络性能测量应用模型及其性能分析.pdf)
 
-# Conference
-## 2019年
+## Conference
+### 2019年
 - Jianyang Yu, Yuanyuan Qiao, Nanfei Shu, Kewu Sun, Shenshen Zhou, Jie Yang, Chinese Transaction Behavior Analysis with Recommender System Based on Transaction Behavior Categories, RecNLP-AAAI 2019, Hawaii, US, 2019.01.27-2.1
-## 2018 年
+### 2018 年
 - Zhizhuang Xing, Wenhui Lin, Yuanyuan Qiao\*, Hao Zhang, Kewu Sun,**Jie Yang**, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
 
 - Jianyang Yu, Yuanyuan Qiao\*, Kewu Sun, Hao Zhang, and **Jie Yang**, Classification of transaction behavior in tax invoices using compositional CNN-RNN model (Poster), UBICOMP2018, Singapore, 2018.10.8-12  
@@ -163,7 +163,6 @@ author_profile: true
 - Aoxiang Cao, Yuanyuan Qiao\*, Kewu Sun, Hao Zhang, and **Jie Yang**, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24  
 [cao2018network](/uploads/cd852b11ec871de148a9a945930c9596/Camera_ready_Traffic_analysis_and_prediction_of_Hotspot_in_cellular_network.pdf)
 
-
 - Yanting Zhang, Shuaiyu Jin, Yuanyuan Qiao\*, Kewu Sun, Hao Zhang, and **Jie Yang**, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE CIC/ICCC 2018, Beijing, P.R. China, 2018.8.16-18  
 [zhang2018exploring](/uploads/ba946845c30dc47cf3f5a6e4ce930111/Yanting_Zhang-1570451879.pdf)
 
@@ -174,7 +173,7 @@ author_profile: true
 [han2018analyze](/uploads/5a5139435e09a4d44f9c9ceb6081e398/PID5176625.pdf)
 	
 
-## 2017 年
+### 2017 年
 
 - Dongjun Han，Qiujian Lv，**Jie Yang**，Research and Analysis of Browsing Habits of New Media Audiences on the Chinese Campus，WCNE2017,Xiamen,P.R. China,2017.12.24-25   
 [han2017research.pdf](uploads/734586466aaeaf3cda86bde2bfab78d1/Research_and_Analysis_of_Browsing_Habits_of_New_Media_Audiences_on_the_Chinese_Campus.pdf)
@@ -198,15 +197,13 @@ Sentiment analysis by exploring large scale web-based Chinese short text，CSAE 
 - Bo Wen\*,  Yuanyuan Qiao\*, Wenhui Lin, and **Jie Yang**, Connecting Mobility, Online Behavior and Urban Structure from Cellular Network Data, 8th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications Workshop on Communications for Networked Smart Cities, IEEE PIMRC WS on CORNER 2017, Montreal, Canada, 2017.10.08-13      
 [wen2017connecting.pdf](/uploads/c84d7291510bcd1293fe2e084fa1f9bd/文博.pdf)
 
-
-
 - Yan Wu\*, Qiujian Lv\*,  Yuanyuan Qiao\*, and **Jie Yang**\*, Linking virtual identities across service domains: an online behavior modeling approach, 13th International Conference on Intelligent Environments Special Session: Representation Learning for Networks, IE Special Session 2017, Seoul, Korea, 2017.8.21-25   
 [wu2017linking.pdf](/uploads/f7240b64e33d4ba6d17dc7dc5a5ff6c2/wu2017linking.pdf)
 
 - Yanting Zhang，Yuanyuan Qiao，Junhua He，Shuangshuang Han，**Jie Yang**，Discover online shopping preferences in different urban area from the view of traffic patterns, The 26th International Joint Conference on Artificial Intelligence, Third Workshop on Representation Learning for Graphs , Melbourne, Australia,2017.08.19-08.25   
 [Zhang2017discover](/uploads/84f442364629ed8e2b8a9fd9f987e635/PAP-17-001-Discovering_Online_Shopping_Preferences_in_Different_Urban_Area_from_the_View_of_Mobile_Traffic_Patterns.pdf)
 
-## 2016年
+### 2016年
 
 - Sudong Zhang，Yuanyuan Qiao，**Jie Yang**，Identifying and Analyzing Hotspots in Urban Cities from Cellular Network Data，Global Wireless Summit,Aarhus,Denmark,2016.11.27-30 
 
@@ -226,7 +223,7 @@ Sentiment analysis by exploring large scale web-based Chinese short text，CSAE 
 [li2016improving](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7509835)
 
 
-## 2015年
+### 2015年
 
 - **Jie Yang**, Weicheng Li,Yuanyuan Qiao, Fadlullah Zubair Md,  Kato  Nei. Characterizing and modeling of large-scale traffic in mobile network[C],  2015 IEEE Wireless Communications and Networking Conference, WCNC 2015, New Orleans, LA, USA, 2015.5.9 -12    
 [yang2015characterizing.pdf](uploads/4ceb7ed96059e92a9d552929342da9b8/Characterizing_and_Modeling_of_Large-Scale_Traffic_in_Mobile_Network.pdf)
@@ -245,7 +242,7 @@ Sentiment analysis by exploring large scale web-based Chinese short text，CSAE 
 
 ---
 
-## 2014年
+### 2014年
 
 - **Jie Yang**, Haiyang He, and Yuanyuan  Qiao. Network traffic analysis based on Hadoop. Wireless Communications, Vehicular Technology, Information Theory and Aerospace and Electronic Systems, VITAE 2014 - Co-located with Global Wireless Summit,  Aalborg, Denmark , 2014.5.11- 14   
 [yang2014network.pdf](uploads/e4300017e628fcf202d86dc6eb636d23/Network_traffic_analysis_based_on_Hadoop.pdf)
@@ -256,7 +253,7 @@ Sentiment analysis by exploring large scale web-based Chinese short text，CSAE 
 - Dong Peng,  Yuanyuan Qiao, and **Jie Yang**, Analyzing traffic characteristics between backbone networks based on Hadoop, 3rd IEEE International Conference on Cloud Computing and Intelligence Systems, CCIS 2014, Shenzhen, P.R. China, 2014.11.27-29         
 [peng2014analyzing.pdf](/uploads/7a7d9c0f4327c95973c65613e2173f5e/peng2014analyzing.pdf)
 
-## 2013年
+### 2013年
 
 - Yuanyuan Qiao\*, Zhenming Lei, **Jie Yang**, and Gang Cheng\*, FLAS: Traffic analysis of emerging applications on Mobile Internet using cloud computing tools, 16th International Symposium on Wireless Personal Multimedia Communications Symposium, WPMC 2013, Atlantic City, NJ, United states, 2013.6.24-27         
 [qiao2013flas.pdf](/uploads/b597dde9d3619117f37f5f5f84261254/qiao2013flas.pdf) 
