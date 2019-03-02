@@ -30,24 +30,3 @@ Skills
 * Beijing University of Posts and Telecommunications-IBM China Research Institute joint research open topic, network traffic feature extraction and business identification, 2008/09~2009/09, 60,000, completed, hosted
 * National Science and Technology Support Program Beiyou Subproject, 2008BAH37B04-3, a new generation of trusted Internet security and network services, 2007.12~2010.12, 2.17 million yuan, completed, participated
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
