@@ -10,7 +10,7 @@ author_profile: true
 ### 2018 年
 * Yuanyuan Qiao\*,Yan Wu, Yaobin He,Libo Hao,Wenhui Lin ,**Jie Yang**. Linking User Online Behavior across Domains with Internet Traffic[J]. Journal of Universal Computer Science, 2018, 24(3): 277-301.  
 **WOS**:000436236400004   
-[qiao2018linking.pdf](/uploads/cf0e595bf91454fd557cab4c95507d9d/jucs_24_03_0277_0301_qiao.pdf)
+[qiao2018linking.pdf](/blob/master/files/paper1.pdf)
 
 * Qiujian Lv\*, Yuanyuan Qiao, Yi Zhang, Fehmi Ben Abdesslem, Wenhui Lin, and **Jie Yang**, Measuring Geospatial Properties: Relating Online Content Browsing Behaviors to Users’ Points of Interest, Wireless Personal Communications,  2018, 101(3): 1469–1498.  
 [lv2018measuring.pdf](/uploads/c5c6296f63461f148953674e1b472564/Measuring_Geospatial_Properties-_Relating_Online_Content_Browsing_Behaviors_to_Users__Points_of_Interest.pdf)
