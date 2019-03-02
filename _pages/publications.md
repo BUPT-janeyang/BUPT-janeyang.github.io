@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[academicpages template](https://github.com/academicpages/academicpages.github.io)
+
 ## Journal
 
 ### 2018 年
